@@ -1,32 +1,24 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+*.[oa]
+release
+debug
+*.ncb
+*.pdb
+*.idb
+*.user
+*.log
+ui_*.*
+*.py
+*.suo
 *.lib
-
-# Executables
+*ake*ile*
+*.ilk
 *.exe
-*.out
-*.app
+*.dll
+*.exp
+*.bak
+*.slv
+*.db
+*.*pre*
+plugins
+settings.xml
+.directory

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mesh.frag</file>
+        <file>mesh.vert</file>
+    </qresource>
+</RCC>
